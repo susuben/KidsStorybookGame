@@ -1,0 +1,10 @@
+{
+  "description": "Engaging interactive storybook game designed for kids to foster reading skills and creativity through fun, immersive storytelling experiences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
